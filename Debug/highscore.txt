@@ -1,0 +1,5 @@
+Luke	17
+Vader	14
+Yappadahut	12
+8	9
+	1
